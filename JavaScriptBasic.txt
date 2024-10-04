@@ -1,0 +1,51 @@
+1.JavaScript is Giving Instructions to a computer (code)
+	
+2.Wrote JavaScript code
+
+3.Run our code using the console (the computer follow our instructions)
+
+4.Syntax (rule that we follow to use the program language)
+
+Example
+
+alert('hello');
+alert('Good Job');
+2+2 press enter
+10-3 press enter
+document.body.innerHTML='hello';
+
+
+
+Lesson 1 Exercise -JavaScript Basic
+
+Note 1 : do these exercise in the console (right-click > Inspect > Console)
+Note 2 : if you to copy-paste code in the Console, you might get a warning, saying pasting is disabled. To fix this type allow pasting in the Console ad Press Enter.
+
+1a. Use alert (...); to display 'Good Morning!' in a popup.
+1b. Display your name in a popup.
+1c. Using math, calculate 10 + 5 In the Console.
+1d. Calculate 20 - 5 in the Console.
+1e. Calculate 2 + 2 - 5 in the Console.
+1f. Use document.body.innerHTML=..., to display 'Good morning!' on the web page.
+1g. Display yourname on the web page
+
+Challenge Exercises
+
+1h. You order a T-shirt for $10,socks for $8, and dinner plates f0r $20.
+    Use JavaScript to calculate the total cost of your order
+1i. Your bank account has $100, you spend $20 on lunch, $50 on dinner, and earn $200 from your job. Calculate how much money you have.
+1j. Use document.body.innerHTML=...; to make the web page blank
+
+
+ANSWER
+
+1a. alert('Good Morning');
+1b. alert('7M');
+1c. 10+5
+1d. 20-5
+1e. 2+2-5
+1f. document.body.innerHTML='Good Morning';
+1g. document.body.innerHTML='7M';
+1h. document.body.innerHTML=10+8+20+'$';
+1i. document.body.innerHTML=100-50+200+'$';
+1j. document.body.innerHTML='';
